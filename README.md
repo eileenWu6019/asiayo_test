@@ -5,8 +5,8 @@ A simple Node.js API for converting currency amounts with exchange rates.
 ## Installation
 
 1. Make sure that you have installed Node.js
-2. Clone this repository with this command: 'git clone '
-3. Change your directory: 'cd '
+2. Clone this repository with this command: 'git clone https://github.com/eileenWu6019/asiayo_test.git'
+3. Change your directory: 'cd asiayo_test'
 4. Install npm: 'npm install'
 
 ## Usage
